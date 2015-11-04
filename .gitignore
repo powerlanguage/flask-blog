@@ -1,2 +1,3 @@
 env/
 *.pys
+.DS_Store
